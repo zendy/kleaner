@@ -97,3 +97,5 @@ src/packages/**/dist
 .pulp-cache/
 output/
 .psc-ide-port
+og/
+cln/
