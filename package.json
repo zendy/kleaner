@@ -1,0 +1,13 @@
+{
+  "name": "kleaner",
+  "version": "1.0.0",
+  "description": "Clean JSON",
+  "main": "index.js",
+  "author": "Zendy Wongso",
+  "license": "MIT",
+  "private": false,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zendy/kleaner.git"
+	},
+}
