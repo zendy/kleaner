@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Clean JSON",
   "main": "index.js",
+	"scripts": {
+		"start": "node index"
+	},
   "author": "Zendy Wongso",
   "license": "MIT",
   "private": false,
